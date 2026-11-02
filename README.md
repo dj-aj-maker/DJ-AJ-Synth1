@@ -1,6 +1,7 @@
 # DJ-AJ-Synth1
 Recreation of dual 555 chip Atari Punk Console Synth
 Multiple failed attempts with heated chips prior to looking at a schematic
+
 Photo from July 13 while debugging:
 <img width="3024" height="4032" alt="IMG_4839" src="https://github.com/user-attachments/assets/459e636a-6917-4222-8732-da790e5ea927" />
 Photo from August 4 while debugging: 

@@ -9,3 +9,6 @@ Photo from early September when I retried getting help from a schematic and the 
 <img width="3024" height="4032" alt="IMG_5039" src="https://github.com/user-attachments/assets/d64388b9-a3fe-4be5-97d5-0604c62d56e6" />
 Photo from Late September when full synth worked: 
 <img width="4284" height="5712" alt="IMG_5042" src="https://github.com/user-attachments/assets/091b9ed8-9434-4162-a564-9ebd673b7584" />
+
+My next synth is the same kind using buttons, the link is here but it will be private until I've uploaded more to it, stay tuned, from there you can access my guitar pedal project
+https://github.com/dj-aj-maker/DJ-AJ-Synth2 

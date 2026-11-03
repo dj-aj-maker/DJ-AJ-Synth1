@@ -10,8 +10,7 @@ https://github.com/user-attachments/assets/ea85de5e-d28c-4ddc-9ef4-5a4a7c4f812f
 
 
 
-Multiple failed attempts with heated chips prior to looking at a schematic
-Photo from July 13 while debugging:
+Multiple failed attempts with heated chips prior to looking at a schematic, photo from July 13 while debugging:
 <img width="3024" height="4032" alt="IMG_4839" src="https://github.com/user-attachments/assets/459e636a-6917-4222-8732-da790e5ea927" />
 Photo from August 4 while debugging: 
 <img width="3024" height="4032" alt="IMG_4863 2" src="https://github.com/user-attachments/assets/2357db9e-88f8-4610-a3d6-e875f7ba0ad1" />

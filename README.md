@@ -1,5 +1,6 @@
 # DJ-AJ-Synth1
 Recreation of dual 555 chip Atari Punk Console Synth
+
 Short video of working synth: 
 https://github.com/user-attachments/assets/ea85de5e-d28c-4ddc-9ef4-5a4a7c4f812f
 

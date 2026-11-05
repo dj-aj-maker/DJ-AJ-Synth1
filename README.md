@@ -2,7 +2,9 @@ Recreation of dual 555 chip Atari Punk Console Synth
 
 Short video of working synth: https://github.com/user-attachments/assets/ea85de5e-d28c-4ddc-9ef4-5a4a7c4f812f
 
-Schematic and photos and video of working synth are in files of the main branch of this repo
+Schematic of working synth: <img width="3508" height="2480" alt="Synth 1" src="https://github.com/user-attachments/assets/6a65d8a1-ad73-4e5e-a9c3-792bf35d6454" />
+
+More info in files of main branch
 
 Multiple failed attempts with heated chips prior to looking at a schematic, photo from July 13 while debugging: 
 <img width="3024" height="4032" alt="IMG_4839" src="https://github.com/user-attachments/assets/91e9e613-ec2f-43d4-a242-cad86e2b0046" />
